@@ -1,4 +1,4 @@
-// Databricks notebook source exported at Mon, 15 Aug 2016 20:25:05 UTC
+// Databricks notebook source exported at Mon, 15 Aug 2016 20:32:10 UTC
 import org.apache.avro.Schema
 
 // COMMAND ----------
